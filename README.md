@@ -5,7 +5,7 @@ Instructions to install docker in a debian based system [here](/docker_install.m
 ## Download
 
 ```shell
-git clone https://github.com/panos-stavrianos/maze_server
+git clone https://github.com/Dkoutrintzes/Maze3D-Docker-Server
 cd maze_server
 ```
 ## Build and run
